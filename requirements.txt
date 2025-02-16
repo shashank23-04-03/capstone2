@@ -1,0 +1,12 @@
+pip==24.0
+setuptools>=67.0
+wheel
+streamlit
+Pillow
+matplotlib
+seaborn
+boto3
+tensorflow==2.17.1
+opencv-python
+numpy
+gdown
