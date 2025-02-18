@@ -72,7 +72,7 @@ The trained model (`wildlife_model.h5`) is used in `app.py` for predictions. The
 - Implement GPS-based wildlife tracking.
 
 ## Contributors
-- Suprith K
+- Shashank V
 
 ## License
 This project is licensed under the MIT License.
